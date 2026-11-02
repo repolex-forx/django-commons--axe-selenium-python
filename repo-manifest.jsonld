@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/django-commons/axe-selenium-python/commit/9b19cc5b7fd4c8099db5cf773e8d3d80ebb572ce",
       "git:hexsha": "9b19cc5b7fd4c8099db5cf773e8d3d80ebb572ce",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v3.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.0.0",
+      "repolex:parsedAt": "2026-11-02T18:31:10.434729+00:00"
     }
   ]
 }
