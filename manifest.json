@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "django-commons",
+  "repo": "axe-selenium-python",
+  "versions": [
+    {
+      "commit": "9b19cc5b7fd4c8099db5cf773e8d3d80ebb572ce",
+      "parsed_at": "2026-11-02T18:28:46.306654+00:00",
+      "tag": "v3.0.0",
+      "filetree": "filetree/9b19cc5b7fd4c8099db5cf773e8d3d80ebb572ce.nq.gz",
+      "blobs": [
+        "blob/b86eab32cfc4c1bd789fe3876d406a9409af8319.nq.gz",
+        "blob/6fbe8159b2db12df85a3ecca3b73921192c6e43f.nq.gz",
+        "blob/5dfd42243d97969c3c65003b8231c8171f4f02c8.nq.gz",
+        "blob/2f66b0a03864cda0fd571c0fe3574ac140d57407.nq.gz",
+        "blob/35e00c24e4e49242f3ba838ea2627dfdf8362a5a.nq.gz",
+        "blob/cc78e0403a53c8a45cba7a7fd59a7086d0d79b76.nq.gz",
+        "blob/469ab827777041679452ca4fd3d96c4151f4acc7.nq.gz",
+        "blob/45a7717cd0a02c3ed014baf53ec62fdb191b994a.nq.gz",
+        "blob/f36b4dbf71c4243588cb39a48db4ee33a8d0ab70.nq.gz",
+        "blob/a612ad9813b006ce81d1ee438dd784da99a54007.nq.gz",
+        "blob/63c08e7b6b370d18476ca7af9309da1dbfd975cc.nq.gz",
+        "blob/9a24508b9baf84619fb0c847136b77d17ebe782d.nq.gz",
+        "blob/c84498f3265279edf9432f5f8b7b56542f5586f4.nq.gz",
+        "blob/3175c0f74d2da6e9101199f2873bc7661f688446.nq.gz",
+        "blob/78bc391bcea361cb01c26e9a38bb0721dc3d3006.nq.gz",
+        "blob/8d0dcfd57f9407b4aea214e3f6b4a789f4f34695.nq.gz",
+        "blob/1da178d5a9336d01401256ca2f0cc6a5fa5bf94e.nq.gz",
+        "blob/85936aa703083805833a9a617ffa8f4a7f0d2bf3.nq.gz",
+        "blob/80c145e987ae0fc714ad290dfe5aeaa0f1aabfdb.nq.gz",
+        "blob/9ec5616f0d83591b7e9dabcca5e771b7e1cc5e57.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
