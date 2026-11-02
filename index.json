@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "axe-selenium-python",
+  "versions": [
+    {
+      "commit": "9b19cc5b7fd4c8099db5cf773e8d3d80ebb572ce",
+      "tag": "v3.0.0",
+      "parsed_at": "2026-11-02T18:31:10.501564+00:00"
+    }
+  ]
+}
